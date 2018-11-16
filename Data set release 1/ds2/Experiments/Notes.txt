@@ -1,1 +1,0 @@
-Experimentation notes, mostly on the choice of hyper-parameters and their effect
